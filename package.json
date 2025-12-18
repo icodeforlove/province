@@ -1,0 +1,51 @@
+{
+  "name": "province",
+  "version": "1.0.0",
+  "description": "Fast, zero-dependency TypeScript library for Thailand provinces, districts, subdistricts, and postal codes with Thai/English lookup helpers",
+  "license": "MIT",
+  "author": "Chad Scira <chadvscira@gmail.com> (https://chadscira.com)",
+  "homepage": "https://github.com/icodeforlove/province",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/icodeforlove/province.git"
+  },
+  "bugs": {
+    "url": "https://github.com/icodeforlove/province/issues"
+  },
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "keywords": [
+    "thai",
+    "thailand",
+    "province",
+    "district",
+    "subdistrict",
+    "postal code",
+    "zip code",
+    "geography",
+    "location",
+    "address",
+    "lookup",
+    "thai",
+    "geo",
+    "geography",
+    "english",
+    "typescript",
+    "zero-dependency"
+  ],
+  "scripts": {
+    "build": "npm run clean && tsc",
+    "test": "npm run build && vitest run",
+    "bench": "npm run build && vitest bench dist/__tests__/provinces.bench.js",
+    "test:watch": "vitest",
+    "test:ui": "vitest --ui",
+    "clean": "rm -rf dist && tsc --build --clean"
+  },
+  "devDependencies": {
+    "@types/node": "^25.0.0",
+    "@vitest/ui": "^4.0.15",
+    "typescript": "^5.9.3",
+    "vitest": "^4.0.15"
+  }
+}

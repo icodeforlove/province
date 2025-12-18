@@ -1,0 +1,8 @@
+node_modules
+dist
+*.log
+.DS_Store
+src_base
+coverage
+_src_base
+_src_base_generate.js
