@@ -1,4 +1,4 @@
-[![NPM](https://nodei.co/npm/province.svg?style=flat-square&data=n,v,u,d&color=brightgreen)](https://nodei.co/npm/province/)
+[![NPM](https://nodei.co/npm/province.svg?style=flat-square&data=n,v,u,d&color=brightgreen)](https://www.npmjs.com/package/province)
 
 # Province – high-performance Thai geography lookups
 
