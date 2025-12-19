@@ -1,6 +1,6 @@
 {
   "name": "province",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fast, zero-dependency TypeScript library for Thailand provinces, districts, subdistricts, and postal codes with Thai/English lookup helpers",
   "license": "MIT",
   "author": "Chad Scira <chadvscira@gmail.com> (https://chadscira.com)",

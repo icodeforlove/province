@@ -75,5 +75,6 @@ export default [
   'Phatthalung',
   'Pattani',
   'Yala',
-  'Narathiwat'
+  'Narathiwat',
+  'Lopburi'
 ];

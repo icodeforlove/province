@@ -21,4 +21,4 @@ example.js
 src/example.ts
 
 _generate
-src_base
+src_*

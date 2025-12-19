@@ -910,5 +910,9 @@ export default [
   'Su-Ngai Kolok',
   'Su-Ngai Padi',
   'Chanae',
-  'Cho-Airong'
+  'Cho-Airong',
+  'Mueang Lopburi',
+  'La-Tab',
+  'Ko Pha Ngan',
+  'Vibhavadi'
 ];

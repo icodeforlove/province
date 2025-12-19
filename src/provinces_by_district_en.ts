@@ -345,7 +345,8 @@ export default {
   'bang sao thong': [
     { subdistrict: 'Bang Sao Thong', subdistrict_th: 'บางเสาธง', district: 'Bang Sao Thong', district_th: 'บางเสาธง', city: 'Samut Prakan', city_th: 'สมุทรปราการ', zip: 10570, district_zip: 10570 },
     { subdistrict: 'Sisa Chorakhe Noi', subdistrict_th: 'ศีรษะจรเข้น้อย', district: 'Bang Sao Thong', district_th: 'บางเสาธง', city: 'Samut Prakan', city_th: 'สมุทรปราการ', zip: 10570, district_zip: 10570 },
-    { subdistrict: 'Sisa Chorakhe Yai', subdistrict_th: 'ศีรษะจรเข้ใหญ่', district: 'Bang Sao Thong', district_th: 'บางเสาธง', city: 'Samut Prakan', city_th: 'สมุทรปราการ', zip: 10570, district_zip: 10570 }
+    { subdistrict: 'Sisa Chorakhe Yai', subdistrict_th: 'ศีรษะจรเข้ใหญ่', district: 'Bang Sao Thong', district_th: 'บางเสาธง', city: 'Samut Prakan', city_th: 'สมุทรปราการ', zip: 10570, district_zip: 10570 },
+    { subdistrict: 'Bang Sao Thong', subdistrict_th: 'บางเสาธง', district: 'Bang Sao Thong', district_th: 'บางเสาธง', city: 'Samut Prakan', city_th: 'สมุทรปราการ', zip: 10570, district_zip: 10570 }
   ],
   'mueang nonthaburi': [
     { subdistrict: 'Suan Yai', subdistrict_th: 'สวนใหญ่', district: 'Mueang Nonthaburi', district_th: 'เมืองนนทบุรี', city: 'Nonthaburi', city_th: 'นนทบุรี', zip: 11000, district_zip: 11000 },
@@ -2047,7 +2048,8 @@ export default {
     { subdistrict: 'Lam Kho Hong', subdistrict_th: 'ลำคอหงษ์', district: 'Non Sung', district_th: 'โนนสูง', city: 'Nakhon Ratchasima', city_th: 'นครราชสีมา', zip: 30160, district_zip: 30160 },
     { subdistrict: 'Mueang Prasat', subdistrict_th: 'เมืองปราสาท', district: 'Non Sung', district_th: 'โนนสูง', city: 'Nakhon Ratchasima', city_th: 'นครราชสีมา', zip: 30160, district_zip: 30160 },
     { subdistrict: 'Don Wai', subdistrict_th: 'ดอนหวาย', district: 'Non Sung', district_th: 'โนนสูง', city: 'Nakhon Ratchasima', city_th: 'นครราชสีมา', zip: 30160, district_zip: 30160 },
-    { subdistrict: 'Lammun', subdistrict_th: 'ลำมูล', district: 'Non Sung', district_th: 'โนนสูง', city: 'Nakhon Ratchasima', city_th: 'นครราชสีมา', zip: 30160, district_zip: 30160 }
+    { subdistrict: 'Lammun', subdistrict_th: 'ลำมูล', district: 'Non Sung', district_th: 'โนนสูง', city: 'Nakhon Ratchasima', city_th: 'นครราชสีมา', zip: 30160, district_zip: 30160 },
+    { subdistrict: 'Than Prasat', subdistrict_th: 'ธารปราสาท', district: 'Non Sung', district_th: 'โนนสูง', city: 'Nakhon Ratchasima', city_th: 'นครราชสีมา', zip: 30420, district_zip: 30420 }
   ],
   'kham sakaesaeng': [
     { subdistrict: 'Kham Sakae Saeng', subdistrict_th: 'ขามสะแกแสง', district: 'Kham Sakaesaeng', district_th: 'ขามสะแกแสง', city: 'Nakhon Ratchasima', city_th: 'นครราชสีมา', zip: 30290, district_zip: 30290 },
@@ -2186,7 +2188,8 @@ export default {
     { subdistrict: 'Khlong Muang', subdistrict_th: 'คลองม่วง', district: 'Pak Chong', district_th: 'ปากช่อง', city: 'Nakhon Ratchasima', city_th: 'นครราชสีมา', zip: 30130, district_zip: 30130 },
     { subdistrict: 'Nong Nam Daeng', subdistrict_th: 'หนองน้ำแดง', district: 'Pak Chong', district_th: 'ปากช่อง', city: 'Nakhon Ratchasima', city_th: 'นครราชสีมา', zip: 30130, district_zip: 30130 },
     { subdistrict: 'Wang Sai', subdistrict_th: 'วังไทร', district: 'Pak Chong', district_th: 'ปากช่อง', city: 'Nakhon Ratchasima', city_th: 'นครราชสีมา', zip: 30130, district_zip: 30130 },
-    { subdistrict: 'Phaya Yen', subdistrict_th: 'พญาเย็น', district: 'Pak Chong', district_th: 'ปากช่อง', city: 'Nakhon Ratchasima', city_th: 'นครราชสีมา', zip: 30320, district_zip: 30130 }
+    { subdistrict: 'Phaya Yen', subdistrict_th: 'พญาเย็น', district: 'Pak Chong', district_th: 'ปากช่อง', city: 'Nakhon Ratchasima', city_th: 'นครราชสีมา', zip: 30320, district_zip: 30130 },
+    { subdistrict: 'Nong Nam Daeng', subdistrict_th: 'หนองน้ำแดง', district: 'Pak Chong', district_th: 'ปากช่อง', city: 'Nakhon Ratchasima', city_th: 'นครราชสีมา', zip: 30450, district_zip: 30450 }
   ],
   'nong bunmak': [
     { subdistrict: 'Nong Bunnak', subdistrict_th: 'หนองบุนนาก', district: 'Nong Bunmak', district_th: 'หนองบุญมาก', city: 'Nakhon Ratchasima', city_th: 'นครราชสีมา', zip: 30410, district_zip: 30410 },
@@ -3517,7 +3520,8 @@ export default {
     { subdistrict: 'Dong Bang', subdistrict_th: 'ดงบัง', district: 'Lue Amnat', district_th: 'ลืออำนาจ', city: 'Amnat Charoen', city_th: 'อำนาจเจริญ', zip: 37000, district_zip: 37000 },
     { subdistrict: 'Rai Khi', subdistrict_th: 'ไร่ขี', district: 'Lue Amnat', district_th: 'ลืออำนาจ', city: 'Amnat Charoen', city_th: 'อำนาจเจริญ', zip: 37000, district_zip: 37000 },
     { subdistrict: 'Maet', subdistrict_th: 'แมด', district: 'Lue Amnat', district_th: 'ลืออำนาจ', city: 'Amnat Charoen', city_th: 'อำนาจเจริญ', zip: 37000, district_zip: 37000 },
-    { subdistrict: 'Khok Klang', subdistrict_th: 'โคกกลาง', district: 'Lue Amnat', district_th: 'ลืออำนาจ', city: 'Amnat Charoen', city_th: 'อำนาจเจริญ', zip: 37000, district_zip: 37000 }
+    { subdistrict: 'Khok Klang', subdistrict_th: 'โคกกลาง', district: 'Lue Amnat', district_th: 'ลืออำนาจ', city: 'Amnat Charoen', city_th: 'อำนาจเจริญ', zip: 37000, district_zip: 37000 },
+    { subdistrict: 'Lue Amnat', subdistrict_th: 'ลืออำนาจ', district: 'Lue Amnat', district_th: 'ลืออำนาจ', city: 'Amnat Charoen', city_th: 'อำนาจเจริญ', zip: 37120, district_zip: 37120 }
   ],
   'bueng kan': [
     { subdistrict: 'Seka', subdistrict_th: 'บึงกาฬ', district: 'Bueng Kan', district_th: 'เมืองบึงกาฬ', city: 'Bueng Kan', city_th: 'บึงกาฬ', zip: 38000, district_zip: 38000 },
@@ -3540,7 +3544,8 @@ export default {
     { subdistrict: 'Nong Hua Chang', subdistrict_th: 'หนองหัวช้าง', district: 'Phon Charoen', district_th: 'พรเจริญ', city: 'Bueng Kan', city_th: 'บึงกาฬ', zip: 38150, district_zip: 38150 },
     { subdistrict: 'Wang Chomphu', subdistrict_th: 'วังชมภู', district: 'Phon Charoen', district_th: 'พรเจริญ', city: 'Bueng Kan', city_th: 'บึงกาฬ', zip: 38150, district_zip: 38150 },
     { subdistrict: 'Pa Faek', subdistrict_th: 'ป่าแฝก', district: 'Phon Charoen', district_th: 'พรเจริญ', city: 'Bueng Kan', city_th: 'บึงกาฬ', zip: 38150, district_zip: 38150 },
-    { subdistrict: 'Si Samran', subdistrict_th: 'ศรีสำราญ', district: 'Phon Charoen', district_th: 'พรเจริญ', city: 'Bueng Kan', city_th: 'บึงกาฬ', zip: 38150, district_zip: 38150 }
+    { subdistrict: 'Si Samran', subdistrict_th: 'ศรีสำราญ', district: 'Phon Charoen', district_th: 'พรเจริญ', city: 'Bueng Kan', city_th: 'บึงกาฬ', zip: 38150, district_zip: 38150 },
+    { subdistrict: 'Phon Charoen', subdistrict_th: 'พรเจริญ', district: 'Phon Charoen', district_th: 'พรเจริญ', city: 'Bueng Kan', city_th: 'บึงกาฬ', zip: 38180, district_zip: 38180 }
   ],
   'so phisai': [
     { subdistrict: 'So', subdistrict_th: 'โซ่', district: 'So Phisai', district_th: 'โซ่พิสัย', city: 'Bueng Kan', city_th: 'บึงกาฬ', zip: 38170, district_zip: 38170 },
@@ -3581,7 +3586,8 @@ export default {
     { subdistrict: 'Chumphu Phon', subdistrict_th: 'ชุมภูพร', district: 'Si Wilai', district_th: 'ศรีวิไล', city: 'Bueng Kan', city_th: 'บึงกาฬ', zip: 38190, district_zip: 38190 },
     { subdistrict: 'Na Saeng', subdistrict_th: 'นาแสง', district: 'Si Wilai', district_th: 'ศรีวิไล', city: 'Bueng Kan', city_th: 'บึงกาฬ', zip: 38190, district_zip: 38190 },
     { subdistrict: 'Na Sabaeng', subdistrict_th: 'นาสะแบง', district: 'Si Wilai', district_th: 'ศรีวิไล', city: 'Bueng Kan', city_th: 'บึงกาฬ', zip: 38190, district_zip: 38190 },
-    { subdistrict: 'Na Sing', subdistrict_th: 'นาสิงห์', district: 'Si Wilai', district_th: 'ศรีวิไล', city: 'Bueng Kan', city_th: 'บึงกาฬ', zip: 38190, district_zip: 38190 }
+    { subdistrict: 'Na Sing', subdistrict_th: 'นาสิงห์', district: 'Si Wilai', district_th: 'ศรีวิไล', city: 'Bueng Kan', city_th: 'บึงกาฬ', zip: 38190, district_zip: 38190 },
+    { subdistrict: 'Si Wilai', subdistrict_th: 'ศรีวิไล', district: 'Si Wilai', district_th: 'ศรีวิไล', city: 'Bueng Kan', city_th: 'บึงกาฬ', zip: 38210, district_zip: 38210 }
   ],
   'bung khla': [
     { subdistrict: 'Bung Khla', subdistrict_th: 'บุ่งคล้า', district: 'Bung Khla', district_th: 'บุ่งคล้า', city: 'Bueng Kan', city_th: 'บึงกาฬ', zip: 38000, district_zip: 38000 },
@@ -3677,7 +3683,8 @@ export default {
     { subdistrict: 'Ban Pet', subdistrict_th: 'บ้านเป็ด', district: 'Mueang Khon Kaen', district_th: 'เมืองขอนแก่น', city: 'Khon Kaen', city_th: 'ขอนแก่น', zip: 40000, district_zip: 40000 },
     { subdistrict: 'Nong Tum', subdistrict_th: 'หนองตูม', district: 'Mueang Khon Kaen', district_th: 'เมืองขอนแก่น', city: 'Khon Kaen', city_th: 'ขอนแก่น', zip: 40000, district_zip: 40000 },
     { subdistrict: 'Bueng Niam', subdistrict_th: 'บึงเนียม', district: 'Mueang Khon Kaen', district_th: 'เมืองขอนแก่น', city: 'Khon Kaen', city_th: 'ขอนแก่น', zip: 40000, district_zip: 40000 },
-    { subdistrict: 'Non Thon', subdistrict_th: 'โนนท่อน', district: 'Mueang Khon Kaen', district_th: 'เมืองขอนแก่น', city: 'Khon Kaen', city_th: 'ขอนแก่น', zip: 40000, district_zip: 40000 }
+    { subdistrict: 'Non Thon', subdistrict_th: 'โนนท่อน', district: 'Mueang Khon Kaen', district_th: 'เมืองขอนแก่น', city: 'Khon Kaen', city_th: 'ขอนแก่น', zip: 40000, district_zip: 40000 },
+    { subdistrict: 'Nai Mueang', subdistrict_th: 'ในเมือง', district: 'Mueang Khon Kaen', district_th: 'เมืองขอนแก่น', city: 'Khon Kaen', city_th: 'ขอนแก่น', zip: 40002, district_zip: 40002 }
   ],
   'ban fang': [
     { subdistrict: 'Nong Bua', subdistrict_th: 'หนองบัว', district: 'Ban Fang', district_th: 'บ้านฝาง', city: 'Khon Kaen', city_th: 'ขอนแก่น', zip: 40270, district_zip: 40270 },
@@ -5006,7 +5013,8 @@ export default {
     { subdistrict: 'Sang Kho', subdistrict_th: 'สร้างค้อ', district: 'Phu Phan', district_th: 'ภูพาน', city: 'Sakon Nakhon', city_th: 'สกลนคร', zip: 47180, district_zip: 47180 },
     { subdistrict: 'Luplao', subdistrict_th: 'หลุบเลา', district: 'Phu Phan', district_th: 'ภูพาน', city: 'Sakon Nakhon', city_th: 'สกลนคร', zip: 47180, district_zip: 47180 },
     { subdistrict: 'Khok Phu', subdistrict_th: 'โคกภู', district: 'Phu Phan', district_th: 'ภูพาน', city: 'Sakon Nakhon', city_th: 'สกลนคร', zip: 47180, district_zip: 47180 },
-    { subdistrict: 'Kok Pla Sio', subdistrict_th: 'กกปลาซิว', district: 'Phu Phan', district_th: 'ภูพาน', city: 'Sakon Nakhon', city_th: 'สกลนคร', zip: 47180, district_zip: 47180 }
+    { subdistrict: 'Kok Pla Sio', subdistrict_th: 'กกปลาซิว', district: 'Phu Phan', district_th: 'ภูพาน', city: 'Sakon Nakhon', city_th: 'สกลนคร', zip: 47180, district_zip: 47180 },
+    { subdistrict: 'Khok Phu', subdistrict_th: 'โคกภู', district: 'Phu Phan', district_th: 'ภูพาน', city: 'Sakon Nakhon', city_th: 'สกลนคร', zip: 47310, district_zip: 47310 }
   ],
   'mueang nakhon phanom': [
     { subdistrict: 'Nai Mueang', subdistrict_th: 'ในเมือง', district: 'Mueang Nakhon Phanom', district_th: 'เมืองนครพนม', city: 'Nakhon Phanom', city_th: 'นครพนม', zip: 48000, district_zip: 48000 },
@@ -6670,7 +6678,8 @@ export default {
   'wang chao': [
     { subdistrict: 'Chiang Thong', subdistrict_th: 'เชียงทอง', district: 'Wang Chao', district_th: 'วังเจ้า', city: 'Tak', city_th: 'ตาก', zip: 63000, district_zip: 63000 },
     { subdistrict: 'Na Bot', subdistrict_th: 'นาโบสถ์', district: 'Wang Chao', district_th: 'วังเจ้า', city: 'Tak', city_th: 'ตาก', zip: 63000, district_zip: 63000 },
-    { subdistrict: 'Pradang', subdistrict_th: 'ประดาง', district: 'Wang Chao', district_th: 'วังเจ้า', city: 'Tak', city_th: 'ตาก', zip: 63000, district_zip: 63000 }
+    { subdistrict: 'Pradang', subdistrict_th: 'ประดาง', district: 'Wang Chao', district_th: 'วังเจ้า', city: 'Tak', city_th: 'ตาก', zip: 63000, district_zip: 63000 },
+    { subdistrict: 'Chiang Thong', subdistrict_th: 'เชียงทอง', district: 'Wang Chao', district_th: 'วังเจ้า', city: 'Tak', city_th: 'ตาก', zip: 63180, district_zip: 63180 }
   ],
   'mueang sukhothai': [
     { subdistrict: 'Thani', subdistrict_th: 'ธานี', district: 'Mueang Sukhothai', district_th: 'เมืองสุโขทัย', city: 'Sukhothai', city_th: 'สุโขทัย', zip: 64000, district_zip: 64000 },
@@ -7880,7 +7889,8 @@ export default {
     { subdistrict: 'Pak Nam Pran', subdistrict_th: 'ปากน้ำปราณ', district: 'Pran Buri', district_th: 'ปราณบุรี', city: 'Prachuap Khiri Khan', city_th: 'ประจวบคีรีขันธ์', zip: 77220, district_zip: 77120 },
     { subdistrict: 'Nong Ta Taem', subdistrict_th: 'หนองตาแต้ม', district: 'Pran Buri', district_th: 'ปราณบุรี', city: 'Prachuap Khiri Khan', city_th: 'ประจวบคีรีขันธ์', zip: 77120, district_zip: 77120 },
     { subdistrict: 'Wang Phong', subdistrict_th: 'วังก์พง', district: 'Pran Buri', district_th: 'ปราณบุรี', city: 'Prachuap Khiri Khan', city_th: 'ประจวบคีรีขันธ์', zip: 77120, district_zip: 77120 },
-    { subdistrict: 'Khao Chao', subdistrict_th: 'เขาจ้าว', district: 'Pran Buri', district_th: 'ปราณบุรี', city: 'Prachuap Khiri Khan', city_th: 'ประจวบคีรีขันธ์', zip: 77120, district_zip: 77120 }
+    { subdistrict: 'Khao Chao', subdistrict_th: 'เขาจ้าว', district: 'Pran Buri', district_th: 'ปราณบุรี', city: 'Prachuap Khiri Khan', city_th: 'ประจวบคีรีขันธ์', zip: 77120, district_zip: 77120 },
+    { subdistrict: 'Khao Noi', subdistrict_th: 'เขาน้อย', district: 'Pran Buri', district_th: 'ปราณบุรี', city: 'Prachuap Khiri Khan', city_th: 'ประจวบคีรีขันธ์', zip: 77160, district_zip: 77160 }
   ],
   'hua hin': [
     { subdistrict: 'Hua Hin', subdistrict_th: 'หัวหิน', district: 'Hua Hin', district_th: 'หัวหิน', city: 'Prachuap Khiri Khan', city_th: 'ประจวบคีรีขันธ์', zip: 77110, district_zip: 77110 },
@@ -8033,7 +8043,8 @@ export default {
     { subdistrict: 'Ban Phoeng', subdistrict_th: 'บ้านเพิง', district: 'Pak Phanang', district_th: 'ปากพนัง', city: 'Nakhon Si Thammarat', city_th: 'นครศรีธรรมราช', zip: 80140, district_zip: 80140 },
     { subdistrict: 'Tha Phaya', subdistrict_th: 'ท่าพยา', district: 'Pak Phanang', district_th: 'ปากพนัง', city: 'Nakhon Si Thammarat', city_th: 'นครศรีธรรมราช', zip: 80140, district_zip: 80140 },
     { subdistrict: 'Pak Phraek', subdistrict_th: 'ปากแพรก', district: 'Pak Phanang', district_th: 'ปากพนัง', city: 'Nakhon Si Thammarat', city_th: 'นครศรีธรรมราช', zip: 80140, district_zip: 80140 },
-    { subdistrict: 'Khanap Nak', subdistrict_th: 'ขนาบนาก', district: 'Pak Phanang', district_th: 'ปากพนัง', city: 'Nakhon Si Thammarat', city_th: 'นครศรีธรรมราช', zip: 80140, district_zip: 80140 }
+    { subdistrict: 'Khanap Nak', subdistrict_th: 'ขนาบนาก', district: 'Pak Phanang', district_th: 'ปากพนัง', city: 'Nakhon Si Thammarat', city_th: 'นครศรีธรรมราช', zip: 80140, district_zip: 80140 },
+    { subdistrict: 'Pak Phanang Fang Tawan Tok', subdistrict_th: 'ปากพนังตะวันตก', district: 'Pak Phanang', district_th: 'ปากพนัง', city: 'Nakhon Si Thammarat', city_th: 'นครศรีธรรมราช', zip: 80370, district_zip: 80370 }
   ],
   'ron phibun': [
     { subdistrict: 'Ron Phibun', subdistrict_th: 'ร่อนพิบูลย์', district: 'Ron Phibun', district_th: 'ร่อนพิบูลย์', city: 'Nakhon Si Thammarat', city_th: 'นครศรีธรรมราช', zip: 80130, district_zip: 80130 },
@@ -8118,7 +8129,9 @@ export default {
     { subdistrict: 'Sai Thai', subdistrict_th: 'ไสไทย', district: 'Mueang Krabi', district_th: 'เมืองกระบี่', city: 'Krabi', city_th: 'กระบี่', zip: 81000, district_zip: 81000 },
     { subdistrict: 'Ao Nang', subdistrict_th: 'อ่าวนาง', district: 'Mueang Krabi', district_th: 'เมืองกระบี่', city: 'Krabi', city_th: 'กระบี่', zip: 81000, district_zip: 81000 },
     { subdistrict: 'Nong Thale', subdistrict_th: 'หนองทะเล', district: 'Mueang Krabi', district_th: 'เมืองกระบี่', city: 'Krabi', city_th: 'กระบี่', zip: 81000, district_zip: 81000 },
-    { subdistrict: 'Khlong Prasong', subdistrict_th: 'คลองประสงค์', district: 'Mueang Krabi', district_th: 'เมืองกระบี่', city: 'Krabi', city_th: 'กระบี่', zip: 81000, district_zip: 81000 }
+    { subdistrict: 'Khlong Prasong', subdistrict_th: 'คลองประสงค์', district: 'Mueang Krabi', district_th: 'เมืองกระบี่', city: 'Krabi', city_th: 'กระบี่', zip: 81000, district_zip: 81000 },
+    { subdistrict: 'Ao Nang', subdistrict_th: 'อ่าวนาง', district: 'Mueang Krabi', district_th: 'เมืองกระบี่', city: 'Krabi', city_th: 'กระบี่', zip: 81180, district_zip: 81180 },
+    { subdistrict: 'Ao Nang', subdistrict_th: 'อ่าวนาง', district: 'Mueang Krabi', district_th: 'เมืองกระบี่', city: 'Krabi', city_th: 'กระบี่', zip: 81210, district_zip: 81210 }
   ],
   'khao phanom': [
     { subdistrict: 'Khao Phanom', subdistrict_th: 'เขาพนม', district: 'Khao Phanom', district_th: 'เขาพนม', city: 'Krabi', city_th: 'กระบี่', zip: 81140, district_zip: 81140 },
@@ -8217,7 +8230,8 @@ export default {
     { subdistrict: 'Tamtua', subdistrict_th: 'ตำตัว', district: 'Takua Pa', district_th: 'ตะกั่วป่า', city: 'Phangnga', city_th: 'พังงา', zip: 82110, district_zip: 82110 },
     { subdistrict: 'Khok Khian', subdistrict_th: 'โคกเคียน', district: 'Takua Pa', district_th: 'ตะกั่วป่า', city: 'Phangnga', city_th: 'พังงา', zip: 82110, district_zip: 82110 },
     { subdistrict: 'Khuek Khak', subdistrict_th: 'คึกคัก', district: 'Takua Pa', district_th: 'ตะกั่วป่า', city: 'Phangnga', city_th: 'พังงา', zip: 82190, district_zip: 82110 },
-    { subdistrict: 'Ko Kho Khao', subdistrict_th: 'เกาะคอเขา', district: 'Takua Pa', district_th: 'ตะกั่วป่า', city: 'Phangnga', city_th: 'พังงา', zip: 82190, district_zip: 82110 }
+    { subdistrict: 'Ko Kho Khao', subdistrict_th: 'เกาะคอเขา', district: 'Takua Pa', district_th: 'ตะกั่วป่า', city: 'Phangnga', city_th: 'พังงา', zip: 82190, district_zip: 82110 },
+    { subdistrict: 'Khuk Khak', subdistrict_th: 'คึกคัก', district: 'Takua Pa', district_th: 'ตะกั่วป่า', city: 'Phangnga', city_th: 'พังงา', zip: 82220, district_zip: 82220 }
   ],
   'khura buri': [
     { subdistrict: 'Khu Ra', subdistrict_th: 'คุระ', district: 'Khura Buri', district_th: 'คุระบุรี', city: 'Phangnga', city_th: 'พังงา', zip: 82150, district_zip: 82150 },
@@ -8239,7 +8253,8 @@ export default {
     { subdistrict: 'Bang Thong', subdistrict_th: 'บางทอง', district: 'Thai Mueang', district_th: 'ท้ายเหมือง', city: 'Phangnga', city_th: 'พังงา', zip: 82120, district_zip: 82120 },
     { subdistrict: 'Thung Maphrao', subdistrict_th: 'ทุ่งมะพร้าว', district: 'Thai Mueang', district_th: 'ท้ายเหมือง', city: 'Phangnga', city_th: 'พังงา', zip: 82120, district_zip: 82120 },
     { subdistrict: 'Lam Phi', subdistrict_th: 'ลำภี', district: 'Thai Mueang', district_th: 'ท้ายเหมือง', city: 'Phangnga', city_th: 'พังงา', zip: 82120, district_zip: 82120 },
-    { subdistrict: 'Lam Kaen', subdistrict_th: 'ลำแก่น', district: 'Thai Mueang', district_th: 'ท้ายเหมือง', city: 'Phangnga', city_th: 'พังงา', zip: 82120, district_zip: 82120 }
+    { subdistrict: 'Lam Kaen', subdistrict_th: 'ลำแก่น', district: 'Thai Mueang', district_th: 'ท้ายเหมือง', city: 'Phangnga', city_th: 'พังงา', zip: 82120, district_zip: 82120 },
+    { subdistrict: 'La-nguern', subdistrict_th: 'ลาแก่น', district: 'Thai Mueang', district_th: 'ท้ายเหมือง', city: 'Phangnga', city_th: 'พังงา', zip: 82210, district_zip: 82210 }
   ],
   'mueang phuket': [
     { subdistrict: 'Talat Yai', subdistrict_th: 'ตลาดใหญ่', district: 'Mueang Phuket', district_th: 'เมืองภูเก็ต', city: 'Phuket', city_th: 'ภูเก็ต', zip: 83000, district_zip: 83000 },
@@ -8937,7 +8952,8 @@ export default {
     { subdistrict: 'Pa Phayom', subdistrict_th: 'ป่าพะยอม', district: 'Pa Phayom', district_th: 'ป่าพะยอม', city: 'Phatthalung', city_th: 'พัทลุง', zip: 93110, district_zip: 93110 },
     { subdistrict: 'Lan Khoi', subdistrict_th: 'ลานข่อย', district: 'Pa Phayom', district_th: 'ป่าพะยอม', city: 'Phatthalung', city_th: 'พัทลุง', zip: 93110, district_zip: 93110 },
     { subdistrict: 'Ko Tao', subdistrict_th: 'เกาะเต่า', district: 'Pa Phayom', district_th: 'ป่าพะยอม', city: 'Phatthalung', city_th: 'พัทลุง', zip: 93110, district_zip: 93110 },
-    { subdistrict: 'Ban Phrao', subdistrict_th: 'บ้านพร้าว', district: 'Pa Phayom', district_th: 'ป่าพะยอม', city: 'Phatthalung', city_th: 'พัทลุง', zip: 93110, district_zip: 93110 }
+    { subdistrict: 'Ban Phrao', subdistrict_th: 'บ้านพร้าว', district: 'Pa Phayom', district_th: 'ป่าพะยอม', city: 'Phatthalung', city_th: 'พัทลุง', zip: 93110, district_zip: 93110 },
+    { subdistrict: 'Ban Phrao', subdistrict_th: 'บ้านพร้าว', district: 'Pa Phayom', district_th: 'ป่าพะยอม', city: 'Phatthalung', city_th: 'พัทลุง', zip: 93210, district_zip: 93210 }
   ],
   'srinagarindra': [
     { subdistrict: 'Chum Phon', subdistrict_th: 'ชุมพล', district: 'Srinagarindra', district_th: 'ศรีนครินทร์', city: 'Phatthalung', city_th: 'พัทลุง', zip: 93000, district_zip: 93000 },
@@ -9258,5 +9274,17 @@ export default {
     { subdistrict: 'Chuap', subdistrict_th: 'จวบ', district: 'Cho-Airong', district_th: 'เจาะไอร้อง', city: 'Narathiwat', city_th: 'นราธิวาส', zip: 96130, district_zip: 96130 },
     { subdistrict: 'Bu Kit', subdistrict_th: 'บูกิต', district: 'Cho-Airong', district_th: 'เจาะไอร้อง', city: 'Narathiwat', city_th: 'นราธิวาส', zip: 96130, district_zip: 96130 },
     { subdistrict: 'Marue Bo Ok', subdistrict_th: 'มะรือโบออก', district: 'Cho-Airong', district_th: 'เจาะไอร้อง', city: 'Narathiwat', city_th: 'นราธิวาส', zip: 96130, district_zip: 96130 }
+  ],
+  'mueang lopburi': [
+    { subdistrict: 'Tha Khae', subdistrict_th: 'ท่าแค', district: 'Mueang Lopburi', district_th: 'เมืองลพบุรี', city: 'Lopburi', city_th: 'ลพบุรี', zip: 15160, district_zip: 15160 }
+  ],
+  'la-tab': [
+    { subdistrict: 'La-Tab', subdistrict_th: 'ลาทับ', district: 'La-Tab', district_th: 'ลาทับ', city: 'Krabi', city_th: 'กระบี่', zip: 81190, district_zip: 81190 }
+  ],
+  'ko pha ngan': [
+    { subdistrict: 'Ko Tao', subdistrict_th: 'เกาะเต่า', district: 'Ko Pha Ngan', district_th: 'เกาะพะงัน', city: 'Surat Thani', city_th: 'สุราษฎร์ธานี', zip: 84360, district_zip: 84360 }
+  ],
+  'vibhavadi': [
+    { subdistrict: 'Tako Nuea', subdistrict_th: 'ตะกุกเหนือ', district: 'Vibhavadi', district_th: 'วิภาวดี', city: 'Surat Thani', city_th: 'สุราษฎร์ธานี', zip: 84370, district_zip: 84370 }
   ]
 };
