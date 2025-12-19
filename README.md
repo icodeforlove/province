@@ -1,3 +1,5 @@
+[![NPM](https://nodei.co/npm/province.svg?style=flat-square&data=n,v,u,d&color=brightgreen)](https://nodei.co/npm/province/)
+
 # Province – high-performance Thai geography lookups
 
 `province` is a tiny, zero-dependency TypeScript library that gives you instant, typed lookups for Thailand’s cities, districts, subdistricts, and postal codes in both Thai and English. It is designed for latency-sensitive services where every microsecond matters (address validation, autocomplete, form enrichment, ETL, fraud/risk checks).
