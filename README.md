@@ -100,6 +100,10 @@ Benchmarks (vitest bench, local run):
 
 All operations are in-memory and constant-time thanks to precomputed maps; no network calls or iterative scans.
 
+## Demo / data test page
+
+Try lookups at https://postcode.in.th for a quick, public reference when validating results.
+
 ## Data source
 
 The dataset is embedded in the package as precomputed TypeScript maps with Thai and English names. Releases ship with the data already built; no network fetches or post-install steps are required.

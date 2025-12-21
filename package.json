@@ -1,10 +1,10 @@
 {
   "name": "province",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Fast, zero-dependency TypeScript library for Thailand provinces, districts, subdistricts, and postal codes with Thai/English lookup helpers",
   "license": "MIT",
   "author": "Chad Scira <chadvscira@gmail.com> (https://chadscira.com)",
-  "homepage": "https://github.com/icodeforlove/province",
+  "homepage": "https://postcode.in.th",
   "repository": {
     "type": "git",
     "url": "https://github.com/icodeforlove/province.git"
